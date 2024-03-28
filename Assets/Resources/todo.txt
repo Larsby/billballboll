@@ -1,0 +1,10 @@
+
+
+todo
+
+[ ] Animationer
+[ ] Stor animation till nästa sida
+[ ] rotera spelplanen en aning
+[ ] välja ut ljud 
+[ ] implementera ljud
+[ ] bygga en låt
